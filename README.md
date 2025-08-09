@@ -213,7 +213,7 @@ If you use CompBind in your research, please cite:
 
     @article{compbind2024,
       title={CompBind: A Python package for competitive binding analysis of protein interactions from molecular dynamics trajectories},
-      author={Your Name},
+      author={Takeshi Sato},
       journal={Journal of Open Source Software},
       year={2024},
       doi={10.21105/joss.xxxxx}
@@ -229,7 +229,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 ## Contact
 
-- Issues: [GitHub Issues](https://github.com/yourusername/compbind/issues)
+- Issues: [GitHub Issues](https://github.com/takeshi-sato-dev/compbind/issues)
 - Email: your.email@institution.edu
 
 ## Acknowledgments
