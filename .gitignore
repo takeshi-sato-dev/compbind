@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+bayesian_env/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Output files
+test_output/
+*.png
+*.pdf
+*.svg
+*.pkl
+*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Documentation
+docs/_build/

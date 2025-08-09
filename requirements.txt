@@ -1,0 +1,19 @@
+# Core requirements (tested on Apple Silicon M1/M2)
+numpy==1.22.4
+scipy==1.7.3
+MDAnalysis==2.7.0
+matplotlib==3.8.4
+seaborn>=0.11.0
+pandas>=1.3.0
+pyyaml>=5.4
+tqdm>=4.62.0
+
+# Bayesian analysis (PyMC3 version for Apple Silicon)
+pymc3==3.11.6
+theano-pymc==1.1.2
+arviz==0.12.1
+
+# Additional dependencies
+h5py>=3.0.0
+tables>=3.6.0
+networkx>=2.5
